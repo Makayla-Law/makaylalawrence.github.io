@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Subpage 1</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Subpage 2</h1>
+    <nav>
+      <ul>
+        <li><a href="main.html">Home</a></li>
+        <li><a href="subpage1.html">Subpage 1</a></li>
+        <li><a href="subpage2.html">Subpage 2</a></li>
+        <li><a href="subpage3.html">Subpage 3</a></li>
+        <li><a href="subpage4.html">Subpage 4</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Section 1</h2>
+      <img src="image3.jpg" alt="Image 1">
+    </section>
+    <section>
+      <h2>Section 2</h2>
+      <img src="image4.jpg" alt="Image 2">
+    </section>
+    <!-- Repeat the pattern for the rest of the sections -->
+    <!-- Add more sections as needed -->
+  </main>
+
+  <footer>
+    <p>&copy; 2024 My Website. All rights reserved.</p>
+  </footer>
+</body>
+</html>
